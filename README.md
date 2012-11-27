@@ -1,6 +1,8 @@
 tabun-chiebukuro
 ================
 
+![screenshot](http://a.yfrog.com/img814/8728/ls0k.png)
+
 ```sh
 $ git clone https://github.com/hirofumi/tabun-chiebukuro.git
 $ cd tabun-chiebukuro
